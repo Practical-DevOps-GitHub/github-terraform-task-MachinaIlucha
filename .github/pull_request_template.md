@@ -1,9 +1,7 @@
-    ## Describe your changes
+# Pull Request Template
 
-    ## Issue ticket number and link
+Please ensure your changes meet the following criteria:
 
-    ## Checklist before requesting a review
-    - [ ] I have performed a self-review of my code
-    - [ ] If it is a core feature, I have added thorough tests
-    - [ ] Do we need to implement analytics?
-    - [ ] Will this be part of a product update? If yes, please write one phrase about this update
+- [ ] Relevant tests added or updated.
+- [ ] Documentation updated if necessary.
+- [ ] Code style adhered to the project standard.
